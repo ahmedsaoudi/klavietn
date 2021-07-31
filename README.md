@@ -3,6 +3,9 @@
 El ktiba bet Tunsi testħaq klavie fih el ħuruf ellezma, khasatan el 'Ħ' wel 'Ɛ'. Hadheka
 εlech 5demt εal klavie hedha. 
 
+El Klavie hedha maεmul bech ytabeq el qawaεed elli mawjudin εala
+[tunsi.tn](https://tunsi.tn).
+
 El klavie mjarreb εal Ubuntu 20.04, ama mafamech εlech bech mayemchich mεa el OSet eli
 kharjin mel Ubuntu wala εal versionet lokhrin mteε el OS. 
 
